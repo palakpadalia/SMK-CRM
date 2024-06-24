@@ -108,7 +108,7 @@
    "name": "Sales Order-custom_proforma_invoice",
    "no_copy": 0,
    "non_negative": 0,
-   "options": "Proforma Invoice Test",
+   "options": "Proforma Invoice",
    "owner": "Administrator",
    "permlevel": 0,
    "precision": "",
